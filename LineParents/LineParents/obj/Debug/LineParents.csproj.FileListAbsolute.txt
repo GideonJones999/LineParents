@@ -1,0 +1,6 @@
+c:\users\jonesgid000\documents\visual studio 2017\Projects\LineParents\LineParents\bin\Debug\LineParents.exe.config
+c:\users\jonesgid000\documents\visual studio 2017\Projects\LineParents\LineParents\bin\Debug\LineParents.exe
+c:\users\jonesgid000\documents\visual studio 2017\Projects\LineParents\LineParents\bin\Debug\LineParents.pdb
+c:\users\jonesgid000\documents\visual studio 2017\Projects\LineParents\LineParents\obj\Debug\LineParents.csprojResolveAssemblyReference.cache
+c:\users\jonesgid000\documents\visual studio 2017\Projects\LineParents\LineParents\obj\Debug\LineParents.exe
+c:\users\jonesgid000\documents\visual studio 2017\Projects\LineParents\LineParents\obj\Debug\LineParents.pdb
